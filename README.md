@@ -1,13 +1,19 @@
 
-# Analysis of Tumor Volume, Tumor Weight, and Metastasis: Placebo vs Capomulin Across Age Groups
+# Placebo vs Capomulin: Effect on Tumor Volume, Weight, and Metastasis
 
 # Dataset Overview
+
 This dataset includes 249 mice diagnosed with squamous cell carcinoma (SCC) tumors. Mice were treated with various drug regimens:
 
 Drugs: Ramicane, Capomulin, Infubinol, Placebo, Ceftamin, Stelasyn, Zoniferol, Ketapril, Propriva, Naftisol
+
 Age Groups: Mice aged between 1 to 24 months
+
 Gender: Both male and female mice
+
 Timepoints: Tumor development was measured over a 45-day period
+
+Data Source: https://github.com/ShipraGupta16/Pymaceuticals
 
 # Objective
 The goal of this study is to compare the effect of a single drug Capomulin versus placebo on tumor growth in mice across age groups and timepoints.
