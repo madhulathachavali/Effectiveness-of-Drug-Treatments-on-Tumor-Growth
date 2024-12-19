@@ -1,3 +1,6 @@
+
+# Analysis of Tumor Volume, Tumor Weight, and Metastasis: Placebo vs Capomulin Across Age Groups
+
 # Dataset Overview
 This dataset includes 249 mice diagnosed with squamous cell carcinoma (SCC) tumors. Mice were treated with various drug regimens:
 
@@ -184,6 +187,8 @@ Placebo shows more variability with higher metastatic counts, especially in olde
 #### Tumor Weight: Capomulin shows a significant effect on tumor weight in age groups 1, 3, 7, 16, and 17, where the differences between Placebo and Capomulin are statistically significant, indicating the drug's efficacy.
 
 #### Metastasis Sites: Capomulin results in more mice with 0 metastatic sites, especially in younger age groups, suggesting better control of metastasis compared to Placebo, which exhibits higher variability and more metastatic sites, particularly in older age groups.
+
+#### Capomulin is effective in inhibiting tumor growth and metastasis, especially in age groups 1, 3, 7, 16, and 17.
 
 
 
