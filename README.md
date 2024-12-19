@@ -76,3 +76,12 @@ The goal of this study is to compare the effect of a single drug regimen versus 
 | Ramicane     | 0.55                  | 0.0                     | 0.69                 | 0                    | 3                    |
 | Stelasyn     | 0.87                  | 1.0                     | 0.97                 | 0                    | 4                    |
 | Zoniferol    | 1.23                  | 1.0                     | 1.25                 | 0                    | 4                    |
+
+
+Each age group is evaluated at 9 timepoints, ranging from 0 to 45 days, with 5-day intervals. As the study progresses, the number of observations decreases; for example, at 5 months, Capomulin starts with 12 mice at timepoint 0 and only 2 at timepoint 45. Visualizations only include age groups with data for both placebo and drug treatments at a given timepoint.
+
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/a681392c-0951-40ac-b9d3-6e1d2069d263" />
+
+
+
+
