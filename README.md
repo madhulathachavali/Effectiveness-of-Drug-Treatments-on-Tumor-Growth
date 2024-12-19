@@ -78,9 +78,58 @@ The goal of this study is to compare the effect of a single drug regimen versus 
 | Zoniferol    | 1.23                  | 1.0                     | 1.25                 | 0                    | 4                    |
 
 
-Each age group is evaluated at 9 timepoints, ranging from 0 to 45 days, with 5-day intervals. As the study progresses, the number of observations decreases; for example, at 5 months, Capomulin starts with 12 mice at timepoint 0 and only 2 at timepoint 45. Visualizations only include age groups with data for both placebo and drug treatments at a given timepoint.
+## Placebo vs Capomulin  
+
+### Treatment Effects on Tumor Growth, Weight, and Metastasis Across Age Groups
+
+Each age group is evaluated at 9 timepoints, ranging from 0 to 45 days, with 5-day intervals. As the study progresses, the number of observations decreases; for example, at 5 months, Capomulin starts with 12 mice at timepoint 0 and only 2 at timepoint 45. Visualizations are provided only for age groups with data for both placebo and drug treatments at a given timepoint.
+
+Fig 1a: Tumor Size Distribution for Placebo vs Capomulin by Age (1 to 24 months) and Sex 
 
 <img width="803" alt="image" src="https://github.com/user-attachments/assets/a681392c-0951-40ac-b9d3-6e1d2069d263" />
+
+Fig 1b: Tumor Size Distribution for Placebo vs Capomulin for Selected Age Groups [1, 3, 7, 9, 12, 16, 17, 18, 20, 21]
+
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/0a66f4b7-2d47-4e76-8ed1-7fa944bfb3e7" />
+
+Fig 1c: Weight (g) Distribution for Placebo vs Capomulin for Selected Age Groups [1, 3, 7, 9, 12, 16, 17, 18, 20, 21]
+
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/5a289ca5-1bcc-417c-a14b-c5b323e74d2f" />
+
+Fig 1d: Metastasis Sites Counts for Placebo vs Capomulin for Selected Age Groups [1, 3, 7, 9, 12, 16, 17, 18, 20, 21]
+
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/d651363e-8f74-4ec5-8391-64f87b7e60fa" />
+
+## Summary 
+
+### Metastasis Sites 
+
+Age 1 Month: Capomulin shows fewer metastatic sites (12 with 0), while Placebo has more spread (3 with 3 sites).
+
+Age 3 Months: Capomulin has 21 with 1 site, while Placebo has 9 with 1 site.
+
+Age 7 Months: Capomulin has most mice with 0 sites (14), while Placebo has more spread (4 with 3 sites).
+
+Age 9 Months: Capomulin is concentrated around 0 and 1 sites (5 and 3), while Placebo is spread across 1 and 2 sites.
+
+Age 12 Months: Capomulin shows more 0 sites (4), while Placebo has more 0 and 1 sites.
+
+Age 16 Months: Capomulin has 15 with 0 sites, showing strong treatment effect. Placebo is more spread.
+
+Age 17 Months: Capomulin has mixed counts, 11 with 1 site and 11 with 2 sites. Placebo is more even.
+
+Age 18 Months: Capomulin has 7 with 2 sites, while Placebo has more 1 site (4).
+
+Age 20 Months: Capomulin has 10 with 0 sites, while Placebo shows more variation, including 5 with 4 sites.
+
+Age 21 Months: Capomulin shows 6 with 0 sites, while Placebo has more spread with 3 having 4 sites.
+
+#### Insights:
+
+Capomulin generally shows more mice with 0 metastatic sites, especially in younger age groups.
+
+Placebo shows more variability with higher metastatic counts, especially in older groups.
+
 
 
 
