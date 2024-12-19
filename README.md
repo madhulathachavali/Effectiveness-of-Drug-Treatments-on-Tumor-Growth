@@ -122,6 +122,11 @@ Fig 2a: ANOVA Results for Placebo vs Capomulin on tumor volume (mm³)
 | 20           | 32.74       | 2.00e-05        | Statistically significant (p < 0.05)                |
 | 21           | 16.09       | 1.01e-03        | Statistically significant (p < 0.05)                |
 
+Fig 2b: Placebo vs Capomulin: Mean Tumor Volume (mm³) Across Age Groups
+
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/4b14dabb-0e08-4dd0-a0e4-d7e3aab39f78" />
+
+
 #### Insights:
 
 All age groups show a statistically significant difference in tumor volume between Placebo and Capomulin (p-values < 0.05).
@@ -132,7 +137,7 @@ The ANOVA results suggest that Capomulin is more effective than Placebo in inhib
 
 ### Placebo vs Capomulin: Weight(g) Across Age Groups
 
-Fig 2b: ANOVA Results for Placebo vs Capomulin on Weight(g)
+Fig 2c: ANOVA Results for Placebo vs Capomulin on Weight(g)
 
 | **Age Group (Months)** | **F-statistic** | **p-value**          | **Interpretation**                                                         |
 |------------------------|-----------------|----------------------|-----------------------------------------------------------------------------|
@@ -146,6 +151,11 @@ Fig 2b: ANOVA Results for Placebo vs Capomulin on Weight(g)
 | 18                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
 | 20                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
 | 21                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
+
+Fig 2d: Placebo vs Capomulin: Mean Weight(g) Across Age Groups
+
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/b1241ec5-a519-4e4f-a4ec-061dba618a1b" />
+
 
 #### Insights:
 
