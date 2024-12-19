@@ -7,7 +7,7 @@ Gender: Both male and female mice
 Timepoints: Tumor development was measured over a 45-day period
 
 # Objective
-The goal of this study is to compare the effect of a single drug regimen versus placebo on tumor growth in mice across age groups and timepoints.
+The goal of this study is to compare the effect of a single drug Capomulin versus placebo on tumor growth in mice across age groups and timepoints.
 
 # Summary Statistics 
 
@@ -102,7 +102,53 @@ Fig 1d: Metastasis Sites Counts for Placebo vs Capomulin for Selected Age Groups
 
 ## Summary 
 
-### Metastasis Sites 
+### Placebo vs Capomulin: Tumor Volume (mm³) Across Age Groups
+
+Fig 2a: ANOVA Results for Placebo vs Capomulin on tumor volume (mm³)
+
+| Age (Months) | F-statistic | p-value         | Interpretation                                      |
+|--------------|-------------|-----------------|-----------------------------------------------------|
+| 1            | 45.04       | 2.76e-07        | Statistically significant (p < 0.05)                |
+| 3            | 51.55       | 9.19e-09        | Statistically significant (p < 0.05)                |
+| 7            | 38.49       | 1.06e-06        | Statistically significant (p < 0.05)                |
+| 9            | 26.52       | 6.72e-05        | Statistically significant (p < 0.05)                |
+| 12           | 19.23       | 3.57e-04        | Statistically significant (p < 0.05)                |
+| 16           | 42.84       | 7.42e-07        | Statistically significant (p < 0.05)                |
+| 17           | 62.78       | 2.88e-10        | Statistically significant (p < 0.05)                |
+| 18           | 12.04       | 3.76e-03        | Statistically significant (p < 0.05)                |
+| 20           | 32.74       | 2.00e-05        | Statistically significant (p < 0.05)                |
+| 21           | 16.09       | 1.01e-03        | Statistically significant (p < 0.05)                |
+
+#### Insights:
+
+All age groups show a statistically significant difference in tumor volume between Placebo and Capomulin (p-values < 0.05).
+
+The F-statistic values are high, indicating a strong difference in means relative to variances between the two drug groups.
+
+The ANOVA results suggest that Capomulin is more effective than Placebo in inhibiting tumor growth across all selected age groups.
+
+### Placebo vs Capomulin: Weight(g) Across Age Groups
+
+Fig 2b: ANOVA Results for Placebo vs Capomulin on Weight(g)
+
+| **Age Group (Months)** | **F-statistic** | **p-value**          | **Interpretation**                                                         |
+|------------------------|-----------------|----------------------|-----------------------------------------------------------------------------|
+| 1                      | 1577.33         | 3.63e-26             | **Significant**: p-value < 0.05 indicates a significant difference between Placebo and Capomulin. |
+| 3                      | 269.60          | 1.24e-19             | **Significant**: p-value < 0.05 indicates a significant difference.          |
+| 7                      | 336.00          | 3.94e-17             | **Significant**: p-value < 0.05 indicates a significant difference.          |
+| 9                      | ∞               | 0.00e+00             | **Significant**: Infinity indicates perfect separation between groups, with no variation in one or both groups. |
+| 12                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
+| 16                     | 1088.89         | 3.91e-22             | **Significant**: p-value < 0.05 indicates a significant difference.         |
+| 17                     | 466.56          | 2.26e-26             | **Significant**: p-value < 0.05 indicates a significant difference.         |
+| 18                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
+| 20                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
+| 21                     | ∞               | 0.00e+00             | **Significant**: Same as age group 9, indicating perfect separation.         |
+
+#### Insights:
+
+Groups 1, 3, 7, 16, and 17 show statistically significant differences between the Placebo and Capomulin groups, indicating that the drug has an effect on tumor weight in these age groups.
+
+### Placebo vs Capomulin: Metastasis Sites Across Age Groups
 
 Age 1 Month: Capomulin shows fewer metastatic sites (12 with 0), while Placebo has more spread (3 with 3 sites).
 
@@ -129,6 +175,16 @@ Age 21 Months: Capomulin shows 6 with 0 sites, while Placebo has more spread wit
 Capomulin generally shows more mice with 0 metastatic sites, especially in younger age groups.
 
 Placebo shows more variability with higher metastatic counts, especially in older groups.
+
+
+## Conclusion: Placebo vs Capomulin
+
+#### Tumor Volume: Capomulin significantly reduces tumor volume compared to Placebo across all age groups, with p-values < 0.05 indicating strong evidence of a difference in efficacy.
+
+#### Tumor Weight: Capomulin shows a significant effect on tumor weight in age groups 1, 3, 7, 16, and 17, where the differences between Placebo and Capomulin are statistically significant, indicating the drug's efficacy.
+
+#### Metastasis Sites: Capomulin results in more mice with 0 metastatic sites, especially in younger age groups, suggesting better control of metastasis compared to Placebo, which exhibits higher variability and more metastatic sites, particularly in older age groups.
+
 
 
 
