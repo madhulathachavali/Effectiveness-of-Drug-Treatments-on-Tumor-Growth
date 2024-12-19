@@ -10,7 +10,6 @@ Timepoints: Tumor development was measured over a 45-day period
 The goal of this study is to compare the effect of a single drug regimen versus placebo on tumor growth in mice across age groups and timepoints.
 
 # Summary Statistics 
-## Summary Statistics for Each Drug Regimen
 
 | Drug Regimen | Age_mean | Age_median | Age_std | Age_min | Age_max | Weight_mean | Weight_median | Weight_std | Weight_min | Weight_max | Tumor_Volume_mean | Tumor_Volume_median | Tumor_Volume_std | Tumor_Volume_min | Tumor_Volume_max | Metastatic_Sites_mean | Metastatic_Sites_median | Metastatic_Sites_std | Metastatic_Sites_min | Metastatic_Sites_max |
 |--------------|----------|------------|---------|---------|---------|-------------|---------------|------------|------------|------------|-------------------|----------------------|------------------|------------------|------------------|-----------------------|------------------------|----------------------|----------------------|----------------------|
